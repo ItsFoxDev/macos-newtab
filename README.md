@@ -3,6 +3,7 @@
 </h1>
 
 A customizeable macOS style new tab
+> This is still in beta, please report any bugs [here](https://github.com/ItsFoxDev/macos-newtab/issues)
 ## 👁️ Previews
 ![](previews/preview.gif)
 Left: Blur disabled | Right: Blur enabled
