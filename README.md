@@ -49,7 +49,8 @@ The URL for your new tab is `https://` + Your GitHub username + `.github.io/` + 
   <li>Find "Custom New Tab Page" in the extension list</li>
   <li>Click the 3 dots, then "Options"</li>
   <li>Select the options tab</li>
-  <li>Enter in the URL for your new tab, and you're done!</li>
+  <li>Enter in the URL for your new tab</li>
+  <li>Scroll to the bottom, click "Save", and you're done!</li>
 </ol>
 </details>
 
