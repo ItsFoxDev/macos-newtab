@@ -27,6 +27,8 @@ Left: Blur disabled | Right: Blur enabled
 
 The URL for your new tab is `https://` + Your GitHub username + `.github.io/` + The repository name (Default: `macos-newtab`)
 <br>E.g: `https://itsfoxdev.github.io/macos-newtab/`
+
+
 ### 🏷️ Setting the new tab
 > ⚠️ First, make sure you've completed the first step in **Customization.**
 
@@ -50,7 +52,10 @@ The URL for your new tab is `https://` + Your GitHub username + `.github.io/` + 
   <li>Click the 3 dots, then "Options"</li>
   <li>Select the options tab</li>
   <li>Enter in the URL for your new tab</li>
-  <li>Scroll to the bottom, click "Save", and you're done!</li>
+  <li>Tick both checkboxes ("Remove iframe headers" and "Force links to open in the top frame")</li>
+  <li>Scroll to the bottom and click "Save"</li>
+  <li>At the top, go to the "Permissions" tab</li>
+  <li>Make sure all of the toggles are on, and you're done</li>
 </ol>
 </details>
 
