@@ -13,7 +13,8 @@ Left: Blur disabled | Right: Blur enabled
 - 🖱️ Toggleable hover effect
 - 🫧 Toggleable background blur effect*
 <br>
-<sub>\*Blur effect blurs the background image, not behind the browser</sub>
+<sub>*Blur effect blurs the background image, not behind the browser</sub>
+
 ## ✅ Usage
 ### 🎨 Customization
 1. [Fork this repository](https://github.com/ItsFoxDev/macos-newtab/fork)
@@ -25,10 +26,12 @@ Left: Blur disabled | Right: Blur enabled
 7. You may need to wait for the changes to be applied, usually 2-3 mins.
 
 The URL for your new tab is `https://` + Your GitHub username + `.github.io/` + The repository name (Default: `macos-newtab`)
+<br>E.g: `https://itsfoxdev.github.io/macos-newtab/`
 ### 🏷️ Setting the new tab
 > ⚠️ First, make sure you've completed the first step in **Customization.**
 
 The URL for your new tab is `https://` + Your GitHub username + `.github.io/` + The repository name (Default: `macos-newtab`)
+<br>E.g: `https://itsfoxdev.github.io/macos-newtab/`
 <details>
 <summary><b>Chromium (Chrome, Edge, Opera, etc.)</b></summary>
 <ol>
