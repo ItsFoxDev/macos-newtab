@@ -17,7 +17,7 @@
 /* 🖱️ HOVER EFFECT */
 /* Enable or disable the darken hover effect ("true" or "false") */
 /* This effect is not present in Safari */
-var hoverEffect = false;
+var hoverEffect = true;
 
 /* 🫧 BLUR EFFECT */
 /* Enable or disable the background blur ("true" or "false") */
