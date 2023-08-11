@@ -2,7 +2,7 @@
   <img style="border-radius:10px" src="previews/banner.png">
 </h1>
 
-A customizeable macOS style new tab
+A customizeable macOS style new tab. You can preview it [here](https://itsfoxdev.github.io/macos-newtab/).
 > This is still in beta, please report any bugs [here](https://github.com/ItsFoxDev/macos-newtab/issues)
 ## 👁️ Previews
 ![](previews/preview.gif)
